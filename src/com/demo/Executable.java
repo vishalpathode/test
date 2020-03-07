@@ -6,6 +6,8 @@ public class Executable {
 		// TODO Auto-generated method stub
 		if(true){
 			System.out.println("");
+		}else{
+			
 		}
 
 		
