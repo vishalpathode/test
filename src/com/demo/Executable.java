@@ -4,7 +4,7 @@ public class Executable {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("user 1");
+		System.out.println("use 1");
 	}
 
 }
