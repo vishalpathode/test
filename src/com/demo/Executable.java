@@ -18,6 +18,8 @@ public class Executable {
 		}else{
 			
 		}
+		System.out.println("------");
+
 	}
 
 }
